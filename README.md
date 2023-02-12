@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <a href="https://velog.io/@h00j" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=React&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybiis&show_icons=true&theme=radical)

@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <a href="https://velog.io/@h00j" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vercel</title><path d="M24 22.525H0l12-21.05 12 21.05z"/></svg>&logoColor=white"/></a>
+ <a href="https://velog.io/@h00j" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybiis&show_icons=true&theme=radical)
